@@ -1,7 +1,9 @@
 ---
 title: Western & Southern Financial Adds Group Term Life ...
 url: https://iireporter.com/western-southern-financial-adds-group-term-life-product-to-thumbscore/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Western & Southern Financial Group" press release artificial intelligence'
 position: 3
 source: serpapi-google

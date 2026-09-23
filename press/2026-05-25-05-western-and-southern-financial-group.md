@@ -1,7 +1,9 @@
 ---
 title: Western & Southern Financial Group
 url: https://www.reinsurancene.ws/tag/western-southern-financial-group/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Western & Southern Financial Group" press release artificial intelligence'
 position: 5
 source: serpapi-google

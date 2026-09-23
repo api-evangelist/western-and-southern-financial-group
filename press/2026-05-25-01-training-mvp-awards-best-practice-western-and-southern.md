@@ -1,7 +1,9 @@
 ---
 title: 'Training MVP Awards Best Practice: Western & Southern ...'
 url: https://trainingmag.com/training-mvp-awards-best-practice-western-southern-financial-groups-generative-artificial-intelligence-training-program/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Western & Southern Financial Group" press release artificial intelligence'
 position: 1
 source: serpapi-google
