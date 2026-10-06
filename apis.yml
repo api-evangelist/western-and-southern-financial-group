@@ -24,7 +24,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/western-and-southern-financial-group.png
 name: Western & Southern Financial Group
 url: https://raw.githubusercontent.com/api-evangelist/western-and-southern-financial-group/refs/heads/main/apis.yml
-modified: '2026-05-03'
+modified: '2026-10-06'
 description: >-
   Western & Southern Financial Group is a Fortune 500 diversified family of
   financial services companies headquartered in Cincinnati, Ohio. Founded in
@@ -55,6 +55,8 @@ created: '2026-03-24'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.westernsouthern.com/about/newsroom
+    type: Blog
   - type: DomainSecurity
     url: security/western-and-southern-financial-group-domain-security.yml
   - type: Website
